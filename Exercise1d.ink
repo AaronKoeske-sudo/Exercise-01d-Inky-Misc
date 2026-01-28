@@ -5,7 +5,7 @@ Comments are very useful for leaving ideas for story and functionalty
 This exercise will demonstrate the following in the example video:
  - Varrying text via loops
  - Functions
- 
+
  In the assignment:
  - A story with at least 6 knots
  * Vary some text via a loop
